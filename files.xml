@@ -1,0 +1,13 @@
+<xml>
+
+    <files id="native-toolkit-imgui" >
+
+        <compilerflag value="-I${NATIVE_TOOLKIT_PATH}/imgui/include/"/>
+
+        <file name="${NATIVE_TOOLKIT_PATH}/imgui/src/imgui.cpp" />
+        <file name="${NATIVE_TOOLKIT_PATH}/imgui/src/imgui_demo.cpp" />
+        <file name="${NATIVE_TOOLKIT_PATH}/imgui/src/imgui_draw.cpp" />
+
+    </files>
+
+</xml>
